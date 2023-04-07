@@ -1,0 +1,19 @@
+INTERNET E PROTOCOLOCAS
+
+COMPUTADOR DO LORENZO 
+
+CMD - ipconfig /all (Mostra mais opções)
+
+classes de IP
+
+vai de A até E
+
+CLASSE a - DE 1 ATÉ 126
+
+CLASSE B - DE 128 ATÉ 191
+
+CLASSE C - 192 - 223
+
+CLASSE D - 224 - 239
+
+CLASSE E - 240 - 254

@@ -1,0 +1,13 @@
+SEXTA-FEIRA
+
+IP (INTERNET E PROTOCOLOS)
+
+HTTPS, SSL, TLS: PROTOCOLO SDE TRANSPORTE DE DADOS
+CRIPTOGRAFADO;
+
+Endereço de IP pode ser igual quando se está na mesma rede.
+
+Endereço MAC é exclusivo, excrito em hexadecimal, todos os dispositivos que transmitem dados possuem endereço MAC. (tv, pc, celular, etc)
+
+
+

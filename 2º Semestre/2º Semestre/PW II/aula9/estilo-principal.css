@@ -1,0 +1,169 @@
+@import url('fontes/ubuntu-Medium.ttf');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'ubuntu', sans-serif;
+}
+body{
+    background: rgb(204, 204, 204);
+}
+.menu ul{
+    display: flex;
+    color: white;
+    font-size:x-large;
+}
+.menu{
+    background-color: rgba(175, 206, 172, 0.7);
+    display: flex;
+    justify-content: space-around;
+    border: solid 2px rgb(112, 122, 111);
+    padding: 1px;
+    align-items: center;
+}
+.alterarExcluir{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+ul, a{
+     text-decoration: none;
+     color: green;
+}
+li{
+    margin: 10px;
+    text-align: center;
+    list-style-type: none;
+    
+}
+.box{
+    border: solid 4px green;
+    margin: 10px;
+    float: left;
+    padding: 10px;
+}
+.box img, .imgalterar img{
+    height: 300px;
+    width: 200px;
+}
+#form-cad-contato{
+     width: 500px;
+    text-align: right;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+#form-cad-contato legend{
+    text-align: left;
+    color: green;
+    font-size: 20px;
+}
+#form-cad-contato form input[type=text],[type=password]{
+    width: 300px;
+    text-align: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#form-cad-contato form input[type=submit]{
+    margin: 20px auto;
+    box-shadow: 5px 5px 5px black;
+    width: 150px;
+    text-align: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+form p{
+    padding-top: 15px;  
+}
+.sucesso{
+    background: green;
+    border: 2px solid black;
+    text-align: center;
+}
+.erro{
+    background: red;
+    border: 2px solid black;
+    text-align: center;
+}
+#app{
+    margin-top: 30px;
+    border: 2px solid black;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+h1{
+    margin-top: 10px;
+    text-align: center;
+    color: green;
+}
+.titulo {
+    font-size: 18px;
+    font-weight: bold;
+}
+td {
+    width: 300px;
+    height: 25px;
+    text-align: left;
+}
+.excluir{
+    margin-top: 10px;
+    background: red;
+    color:white;
+    text-align: center;
+}
+
+.box img{
+    height: 400px;
+    width: 250px;
+}
+footer{
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+}
+
+#form-index{
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 40px;
+}
+#form-index form{
+    width: 150px;
+}
+#form-index input{
+    height: 25px;
+}
+#form-index p{
+    font-weight: bold;
+    color: black;
+}
+#form-index button{
+    padding: 10px 25px 10px 25px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+#form-index button:hover{
+    background: green;
+}
+.pesquisar{
+    padding: 20px 0px 20px 0px;
+}
+.pesquisar input{
+    width: 400px;
+    height: 25px;
+    
+}
+.pesquisar p{
+    text-align: center;
+    font-weight: bold;
+    color: green;
+}
+.nomeUsuario{
+    position: absolute;
+    left: 0;
+}

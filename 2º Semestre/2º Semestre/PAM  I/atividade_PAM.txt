@@ -1,0 +1,29 @@
+aplicativo para filtrar buscas utilizando COMBO BOX
+
+
+
+filtrar por fabricantes.
+ex: (Mostrar logo das montadoras)
+
+
+Hyundai;
+ford;
+chevrolet;
+brasilia amarela;
+
+
+apresentar carros filtrando por fabricante ;
+apresentar foto do carro selecionado;
+apresentar numeros de roubo;
+
+
+-------------
+1º combo
+montadora do veiculo, com ela selecionada, apresentar logo.
+
+2º combo
+mostrar os carros da montadora selecionada (utilizar variável pegando o valor a montadora).
+Com o carro selecionado, apresentar foto dele e os dados de roubo
+
+3º combo
+Mostrar qual quadrimestre a pessoa deseja ver, e a soma de todos.

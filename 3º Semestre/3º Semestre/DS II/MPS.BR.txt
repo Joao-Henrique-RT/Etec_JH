@@ -1,0 +1,35 @@
+MPS. BR - Melhoria do Processo de Software Brasileiro.
+
+→ O QUE É: É um projeto
+
+→ OBJETIVO: O objetivo desse projeto, como o nome sugere, é que haja uma melhoria em todos os processos de software brasileiros, especialmente em pequenas e médias empresas. Além de um movimento para a melhoria geral da qualidade do software produzido em nosso país, é um modelo de qualidade de processo.
+
+→ O MOVIMENTO: O MPS.BR é um movimento criado em uma parceria entre o Ministério da Ciência, Tecnologia e Inovação e a SOFTEX – Associação para Promoção da Excelência do Software Brasileiro e algumas empresas e instituições de ensino. O programa foi criado e tem como foco principal as micros, pequenas e médias empresas do mercado de software. 
+
+→ O MODELO: O MPS.BR fornece um modelo que auxilia as empresas. Este possui total compatibilidade com a norma ISO/IEC 15504 e com o CMMI (Capability Maturity Model - Integration).
+
+→ ISO/IEC 15504: https://www.dqsglobal.com/pt-br/certifique/certificacao-iso-iec-15504-spice
+
+→ CMMI (Capability Maturity Model - Integration): https://www.devmedia.com.br/cmmi-uma-visao-geral/25425
+
+→ COMO UMA EMPRESA PODE SER AVALIADA MPS.BR: A avaliação MPS.BR confere um nível de maturidade aos processos da unidade organizacional. Para que sua empresa seja avaliada em um modelo MPS, é necessário seguir quatro passos.
+
+→ MODELO DE MPS PARA SERVIÇOS
+
+→ MODELO DE MPS PARA SOFFTWARE
+
+→ MODELO DE SOFTWARE PARA GESTÃO DE PESSOAS
+
+→ TREINAMENTO E AVALIAÇÃO
+
+LINKS:
+https://www.devmedia.com.br/melhoria-do-processo-de-software-brasileiro/29915
+https://softex.br/mpsbr/
+https://softex.br/download/mps-br-uma-ferramenta-brasileira-na-gestao-por-processos/?wpdmdl=106293&masterkey=5f32bbabacb6a
+
+
+SUGESTÃO:  inicia-se a discussão a partir da 
+gestão por processos e a utilização de softwares e, a seguir, a descrição do MPS.BR através da 
+apresentação dos seus guias, os níveis e suas especificações, onde são feitas algumas 
+comparações com o modelo CMMI, passando então, para os pontos importantes e vantagens 
+desse software.

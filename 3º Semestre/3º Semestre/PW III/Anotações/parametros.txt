@@ -1,0 +1,37 @@
+Parametros são valores na URL, passados atraves de busacar, pesquisas, etc;
+
+porque são importantes?
+- Podemos enviar um link com os paramentros a uma pessoa e fazer com que ela veja direto o que queremos
+
+O parametro pode ser:
+
+a) Estático (Não se altera conforme o usuário navega)	
+b) Dinâmico (Padrão)(muda de acordo com os cliques do usuário)
+_______________________________________
+1 - Criar um controller para Estatico
+ php artisan make:controller EstaticoControler
+_______________________________________
+Sempre que fomos exibir algo na tela, criamos um métodos chamado show
+
+   public function show(){
+        
+    }
+
+_______________________________________
+if
+PRoduto, fornecedor e preço
+
+_______________________________________
+UTILIZANDO PARAMETRO DINAMICO
+
+php artisan make:controller DinamicoController
+
+_______________________________________
+Criar a rota passando o parâmetro
+
+route::get('/dinamico/{nome}',
+[
+    DinamicoController::class, 'index'
+]);
+
+

@@ -1,0 +1,28 @@
+06 de março de 2023 segunda-feira
+SSI
+
+PRINCIPAIS TIPOS DE ATAQUE
+
+-Engenharia social - técnica por meio da qual uma pessoa procura persuadir outra a executar determinadas ações.
+
+- Varredura em redes (scan)
+-Consiste em efetuar buscas minunciosas em redes, com o objetivo de identificar computadores ativos e coletar informações sobre eles como pro exemplo, serviços disponibilizados
+
+
+- Negação de serviço distribuída (DDoS)
+- Atividade maliciosa, coordenada e distribuída, pela qual um conjunto de computadores e/ou dispositivos móveis é utilizado para tirar de operação um serviço, um computador ou uma rede conectada à internet.
+- Varios PCs (zumbis) juntos atacam e infectam o mesmo alvo. Afim dele parar de fornecer seu serviço.
+
+- Força bruta
+Consiste em adivinhar, por tentativa e erro, um nome de usuário e senha de um serviço ou sistema.
+
+-Invasão ou compromentimento
+Ataque bem sucedido que resulte no acesso, manipulação ou destruição de informações em um computador.
+
+-Desfiguração de página(Defacement)
+COnsiste em alterar o conteúdo da página web de um site.
+
+-Escuta de tráfego
+Consiste em inspecionar os dados trafegados em redes de computadores, 
+
+professor é legal, ELE É ZÉR. JERZON, é muito gente boa, tem aula dele amanha, PEDRINHO MATADOR KKKKKKKKKKKKKKKKKKKKKK

@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+F:\ETEC\2º Semestre\DS\DS\src\gui\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

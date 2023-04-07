@@ -1,0 +1,130 @@
+PW III
+QUINTA FEIRA
+
+
+
+-TOMA MS-DOS, TRABALHANDO E CONTROLANDO 
+O BROWSER, TRABALHANDO E CONTROLANDO PASTAS, TRABALHANDO E RELAXANDO
+
+
+-DEUS ME AJUDE COM ESSA MATÉRIA
+
+
+
+-CUIDADO COM ATRASOS
+
+-ATENÇÃO REDOBRADA!!!!!
+
+
+
+
+************
+COMANDOS BÁSICOS MS-DOS (QUE MAIS IREMOS UTILIZAR)
+************
+1º Voltar uma pasta para trás
+cd.. <enter>
+cd\ <enter> --> VOLTA DIRETO PARA O DISCO (C:)
+
+**************************************************************
+2º Mostrar pastas existentes na unidade em que estamos no CMD:
+dir <enter>
+
+**************************************************************
+3º Limpar a tela
+cls <enter>
+**************************************************************
+
+4º Mostrar todas as pastas do sistema:
+dir /s <enter>
+(Comando dir lista as pastas, a letra S significa sistema)
+para parar o comando apertar CTRL + C
+**************************************************************
+
+
+5º Para exibir todos os arquivos do sistema de forma pausada
+dir /s/p <enter>
+(Irá listar as pastas se voce clicar em alguma tecla)
+**************************************************************
+6º Para mostrar os comandos para alterar a cor do CMD
+color r <enter>
+**************************************************************
+
+7º Para criar uma pasta
+md <nomedapasta> <enter>
+
+exemplo: md etec <enter>
+**************************************************************
+8º Para acessar uma pasta
+cd <nomepasta> <enter>
+
+exemplo: cd etec <enter>
+**************************************************************
+9º Para visualizar o conteudo de um arquivo de texto
+(selecione a pasta com o arquivo)
+type <nomedoarquivo> <enter>
+
+exemplo: type receita.txt <enter>
+**************************************************************
+10º Renomear um arquivo
+ren <nomedoarquivo> <novonome> <enter>
+
+exemplo:
+rem receita.txt receitas.txt <enter>
+**************************************************************
+11º Para copiar um arquivo para outra pasta
+copy <nomedoarquivo> destino <enter>
+
+exemplo copy receitas.txt C:\etec <enter>
+**************************************************************
+12º Para excluir uma pasta
+rd /s <nomedapastaaserexcluida> <enter>
+
+exemplo: rd /s etec
+**************************************************************
+
+O QUE É UM FRAMEWORK?
+
+--AGILIZA O DESENVOLVIMENTO.
+
+--PADRONIZA O DESENVOLVIMENTO.
+
+-- UM CÓDIGO FEITO COM FRAMEWORK TEM A IDEIA DE FAZER COM QUE
+QUALQUER DEV CONSIGA IDENTIFICAR ONDE FICA CADA COISA, FAZER UMA INSERÇÃO DE FORMA MAIS FÁCIL.
+
+--CRIAÇÃO DO LARAVEL (2011), FRAMEWORK MAIS UTILIZADO DO PHP.
+
+Framework:
+ -Uma estrutura onde inserimos partes do projeto, para formarmos um todo.
+**************************************************************
+Biblioteca:
+
+rotina:
+validarCpf(123456789-12)
+retornar valido ou não
+
+Biblioteca é como se fosse um armazém de funções e métodos.
+**************************************************************
+
+Estrutura de um projeto LAravel
+----MVC (MODEL VIEW CONTROLLER)
+
+VIEW - TUDO O QUE VEMOS DENTRO DO SITE (FORMULÁRIOS, LISTAS, ETC)
+
+CONTROLLER - A PONTE ENTRE A VISÃO DO USUÁRIO E O CONTROLE DO SOFTWARE
+
+MODEL - MODELO É QUEM IRÁ RETORNAR AO USUÁRIO O QUE FOI PEDIDO.
+
+ETAPAS:
+ O USUÁRIO VÊ A TELA POR MEIO DO VIEW, PEDE ALGUMA REQUISIÇÃO AO SISTEMA, ESTA REQUISIÇÃO PASSA POR MEIO DO CONTROLE E CHEGA ATÉ O MODELO, QUE LÊ O QUE FOI PEDIDO E DEVOLVE AO CONTROLE, QUE POR SUA VEZ DEVOLVE AO USUÁRIO
+
+
+
+
+
+
+
+
+
+
+
+

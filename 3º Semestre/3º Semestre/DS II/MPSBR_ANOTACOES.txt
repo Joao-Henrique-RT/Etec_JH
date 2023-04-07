@@ -1,0 +1,23 @@
+MPSBR - Melhoria do processo de software brasileiro
+
+
+(Modelo de qualidade de proicesso Brasileiro)
+
+Existem 3 tipoes de modelos, para software, gestao e RH
+MR-MPS-SW (MODELO DE SOFTWARE)
+
+Possui niveis de maturidade:
+começa no nível G e termina no nível A
+
+g - Parcialmente gerenciado
+F - Gerenciados
+E - Parcialmente definido
+D - Definido
+C - Totalmente definido
+b - Gerenciado quantitativamente
+A - EM otimização
+
+Mais de 900 empresas brasileiras já foram avaliadas no modelo
+MPS-BR, auxilia muito na qualidade de processos de empresas
+menores, já que não possuem dinheiro para implementar o modelo
+CMMI

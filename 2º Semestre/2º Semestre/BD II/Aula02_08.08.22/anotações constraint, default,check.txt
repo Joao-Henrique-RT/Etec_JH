@@ -1,0 +1,12 @@
+--Constraint - Objetos de integridade de dados e integridade referencial;
+	--Constraint é sinônimo de RESTRIÇÃO--
+	--Primary key -- Não permitir duplicidade de dados na(s) colunas(s) que faz(em) parte da chave.
+
+**INsert e Update;
+
+DEFAULT VALUE - Valor padrão para colunas quando não informado na inclusão de dados
+***INSERT
+
+
+CHECK -- Verificação de regas
+***INsert e Update

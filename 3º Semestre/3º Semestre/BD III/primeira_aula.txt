@@ -1,0 +1,59 @@
+BANCO DE DAODS III
+
+APRENDER BANCO DE DADOS
+
+Quering - Comandos SQL
+
+Implementação - Criar o banco e implementar comandos
+
+Administração 
+
+
+
+
+************************************
+Quando criamos um banco de dados, ele necessita de dois arquivos:
+ 	Data file (onde os dados ficam os dados, possue extensao de arquico .mdf)
+	Log file (Ficam os Logs dos arquivos, possui extensao do arquivo .ldf )
+
+--Criação de banco de dados personalizado
+
+-Botão direito em Databases, New database.
+
+DONO DO BANCO (LOGIN USUÁRIO DO MANAGEMENT)
+
+POdemos colocar limite de dados.
+ - Podemos configurar se o limite é alterado automáticamente ou se ele possui um limite fisíco.
+ 
+  - Podemos colocar um limite automatico aumentando o banco por MB ou por porcentagem levando em conta o tamanho do banco, ex: o banco atinge o tamanho maximo e irá crescer 15% do seu tamanho
+************************************
+
+Transação no Banco de dados.
+
+alguns comandos de DML (Data manipulation Language)
+
+INsert,  update, deelte, select
+
+------Transaction 
+ 	Begin transaction
+	commit transaction
+	rollback transaction
+
+
+Os dados alterados via comandos SQL, com o transaction, o dado não vai direto para o Arquivo de dados, ficam todos no LOG. Só vão para os arquivos quando "Avisamos" o SGBD que está certo.
+************************************
+
+O banco de dados quando criado utiliza alguns MB de espaço do sistema pra poder criar as pastas necessárias que irão conter o banco de dados em si
+
+
+
+
+
+
+
+
+
+
+
+
+

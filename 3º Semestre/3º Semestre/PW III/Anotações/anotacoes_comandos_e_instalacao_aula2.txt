@@ -1,0 +1,133 @@
+PW III
+
+16/02/23
+*****************************
+Procedimento para instalar o Laravel?
+(recomendado ter sempre a última versão do PHP)
+
+1- Baixar o Xamp (PAra ter última versão do PHP)
+
+link: https://www.apachefriends.org/download.html
+
+2 - Baixar gerenciador de dependências
+
+Uremos utlizar o Composer
+
+https://getcomposer.org/download/
+
+**************************************
+Instalando as ferramentas
+**************************************
+
+1 -Intalando o xampp
+
+2- Instalar o Composer (gerenciador de dependencias)
+Entrar na pasta Xampp/php/php.exe
+
+Podemos usar o WAMP Server, porém o Xamp é necessário para obter a última versão do PHP, no composer vamos sempre utilizar o xampp pois ele irá ter a ultima versão do PHP
+**************************************
+
+comandos basicos
+ - Para criar um projeto
+
+composer create-project laravel/laravel x 
+
+php artisan -V (MOstará a versão do Framework) (nesse caso, Laravel 9.5.2)
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+php artisan serve  (para iniciar um servidor). CTRL C pra parar o servidor
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+
+
+Para abrir o servidor no navegador basta copiar o endereço que estará no PROMPT de COMANDO
+****************************************
+Artisan é um modulo que foi desenvolvido no Laravel que permite a execução de comando igual ou semelhante ao do DOS.
+
+Artisan foi criado para executar comandos repetitivos, foi criado como uma especíe de rotina para os programadores
+
+**************************************
+listando os comandos do artisan:
+
+Php artisan list
+****************************************
+Fora da pasta do projeto o artisan não funciona
+****************************************
+PORQUE LARAVEL É EM PADRÃO MVC?
+
+-Se torna mais fácil na organização
+
+V - VIEW, tudo o que for visual dentro do site estará dentro desta parte do projeto.
+***************************************
+127.0.0.1:8000/ (No laravel é chamado de rota)
+
+****************************************************************
+
+A porta padrão para inicio do servidor é 8000
+
+Mudando a porta do servidor 
+php artisan serve --port=9000
+****************************************************************
+Colocando o servidor em manutenção:
+php artisan down
+php artisan serve
+*************************************************************
+colocando oservidor de volta ao ar
+php artisan up
+php artisan serve
+*************************
+Colocando o servidor em modo manutenção e permitindo a visualização
+através de uma chave                                                    
+
+php artisan down --secret=testing
+
+
+
+
+
+
+
+ATIVIDADE
+
+CRIAR UM PROJETO COM A PASTA CHAMADA 0203B
+
+code <espaço>.
+
+****************************************
+O que é uma rota?
+Um caminho, a ser seguido para chegar em algum lugar dentro do site
+
+
+*******************************************************************
+Qualquer VIEW criada no Laravel precisa ter .blade
+
+exemplos:
+index.blade.php
+welcome.blade.php
+*********************************************************************
+
+
+
+listando as rotas do projeto
+php artisan route:list
+
+***************************************
+Criar uma view chamada "Produtos.blade.php"
+inserir apenas uma mensagem "PAgina de produtos"
+
+criar uma rota: /produtos
+
+---------------------------------------------------
+Criar uma rota /final 
+Esta rota encaminhara um texto html para a tela 
+"html sendo encaminhando para a tela"
+
+QUando terminar liste todas as rotas que foram criadas

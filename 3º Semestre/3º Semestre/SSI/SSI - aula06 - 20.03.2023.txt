@@ -1,0 +1,29 @@
+20 de março de 2023 segunda-feira
+SSI
+
+LINUX
+
+	- nmap.org/download.html (PROGRAMAS PARA LINUX & WINDOWS)
+
+	- T0 até T5 velocidades
+		T0 - Paranoico
+		T1 - Cauteloso
+		T2 - Lento
+		T3 - Agressivo
+		T4 - Agressivo
+		T5 - Insano
+
+	 - A - Agressive
+
+	- V
+
+	- T4 -A V + (IP do alvo)
+	- T3 -A V 10.0.0.1.
+
+	eXPLOIT_DB (SITE PARA VER O QUE RODRIGO ACESSA PARA ATACAR GAMERS INDEFESOS)
+
+	- hping3 - manda varios pacotes de varios tamanhos para um host.
+		"cm 15000 -d 120 -- --flood 10.0.0.1" (ip da máquina alvo)
+
+
+

@@ -1,0 +1,18 @@
+09 de março de 2023 quinta-feira
+PW III
+
+CONTROLADORES
+	- Agrupam a logica de tudo que deve ser feito para o cliente.
+
+	- Ao acessarmos uma rota da aplicação, ela estara associada a um controlador e uma action.
+
+	- Ou seja, o controlador possui metodos, e cada metodo é responsavel por uma acao.
+
+	- Cria todas as regras para controlar o cliente.
+
+	- Criar um controlador
+		"php artisan make:controller ClienteController" + Enter
+
+	- Cria um controlador ja com alguns metodos
+
+		"php artisan make:controller ClienteController --resource" + Enter

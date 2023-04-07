@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+#form-cad-contato{
+    width: 500px;
+    text-align: right;
+    padding: 100px;
+    margin: 0 auto;
+}
+
+#form-cad-contato{
+    text-align: left;
+    color: rgb(14, 207, 175);
+    
+}
+
+#form-cad-contato form  input{
+    width: 300px;
+    font-size: 20px;
+    
+    
+}
+
+#form-cad-contato form input[type=submit]{
+    margin: 20px auto;
+    box-shadow: 5px 5px 5px black;
+
+}
+fieldset{
+    border-radius: 10px;
+}
+
+.sucesso{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #617c42;
+    border-radius: 5px;
+    background: #ecffd6;    
+    color: #2b7515;
+    height: 30px;
+}
+
+.erro{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #a33a3a;
+    border-radius: 5px;
+    background: #ffe0e0;
+    color: #ba3939;
+}
+.box div{
+    border:solid 6px #2a1575;
+    border-radius: 3px;
+    margin: 10px;
+    float: left;
+    padding: 10px;
+    text-decoration: underline;
+}
+.div Form{
+    width: 500px;
+    margin: 100px auto;
+    text-align: right;
+    padding: 20px;
+    box-shadow: 6px 6px 6px black;
+   
+}

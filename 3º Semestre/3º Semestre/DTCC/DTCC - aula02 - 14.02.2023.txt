@@ -1,0 +1,21 @@
+14 de fevereiro de 2023
+DTCC
+
+POSSÍVEIS MODIFICAÇÕES E OBSERVAÇÕES
+
+- Criar uma padrão para indentificação e explicação de mudanças no projeto pelo GitHub
+	Ex: João alterou alguma coisa, nomeia como:
+		"css - (nome página)", e na descrição escrever EXATAMENTE/DETALHADAMENTE o que foi feito.
+
+- Comittar UMA mudança por vez.
+
+- Se for mexer em casa sempre dar uma olhada no histórico do GitHub .
+
+- Refazer página BARRA SUPERIOR da página princial.
+
+- Refazer página intranet.
+
+- Retirar temporariamente o link de salão.
+
+- https://miro.com/app/board/uXjVPqkgBSc=/?share_link_id=207658412324
+	Link para acessar a criação das telas pelo Miro.

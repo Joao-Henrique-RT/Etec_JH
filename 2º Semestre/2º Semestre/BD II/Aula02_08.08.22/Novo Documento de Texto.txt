@@ -1,0 +1,42 @@
+-- SQL --
+-- Maiúsculunos e mínusculos, não faz diferença --
+
+-- DML -->> Data Manipulation Language (Maniplar DADOS)
+-- DML ->> É composta por: Insert, Update, Delete, Select
+
+-- DDL -->> Data Definition Language (Manipular ESTRUTURA)
+-- DDL ->> É composta por: Create, Alter, Drop. ***Database, Table, View, Triger, Procedure, Index ***(Estruturas para suportar os dados).
+
+--diferença entre DELETE e DROP, Delete manipula apenas dados, pois faz parte da DML.
+
+--GO, cria uma "Divisão".
+
+--> Toda variável precisa do " @ " --
+
+-- declare @curiosidade varchar(200); -- Criar Variável -- -- varchar, Quando não tiver número de caracteres indefinido --
+-- select @curiosidade = 'apenas teste'; -- Atribuir valor p/ variável -- -->> Aspas simples serve para delimitar o conjunto de caracteres --
+-- select @curiosidade as texto; -- Retornar valor da variável -- -->> Apelido para a informação -- 
+							  -->> Se for palavra composta, coloca aspas -- select @curiosidade as 'texto da variavel' --
+-- go --
+
+-- declare @PAIS char(3); -- char, Quando tiver número de caracteres definido --
+-- SET @PAIS ='BR'; --
+
+-- Criar banco de dados para Mercado --
+create database db_mercado;
+go
+
+use db_mercado;
+go
+
+Create table dbo.Produto
+	(
+	ID_Produto		int not null primary key,
+	Nome_Produto	Varchar(100) not null,
+	Data_Cadastro	date,
+	Id_Fornecedor	int not null,
+	Custo_Unitario	Numeric(9,2),
+	Preco_Unitario	Numeric(10,2),
+	);
+
+go
