@@ -1,0 +1,22 @@
+- criar projeto sobral
+
+- criar estrutura de pastas
+
+--criar views 
+-- criar  links (rotas nomeadas)   
+--criar controler
+
+
+
+
+
+obs: utilize o padrao correto para nomear os arquivos, metodos, etc
+
+
+
+
+
+
+
+
+
